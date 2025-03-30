@@ -1,0 +1,8 @@
+streamlit
+cohere
+pandas
+requests
+pydeck
+python-dotenv
+fpdf
+Pillow

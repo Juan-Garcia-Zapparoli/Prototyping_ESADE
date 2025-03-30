@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit config
+.streamlit/
+
+# System files
+.DS_Store
+*.swp
+
+# IDE settings
+.vscode/
+
+# Output and generated files
+*.pdf
+*.docx
+
+# Specific files
+Assignment LLM.docx
